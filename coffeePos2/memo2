@@ -1,0 +1,30 @@
+drop table coffee;
+create table coffee(
+  coffeename varchar(20),
+  coffeesize varchar(10),
+  shot varchar(10),
+  coffeetemp varchar(10),
+  price decimal
+);
+
+insert into stock(wondu,milk,sirup,berry,mango,green,black,choco)
+values(30,30,30,10,10,10,10,10);
+
+select * from coffee;
+select * from stock;
+
+create table stock(
+  wondu int,
+  milk int,
+  sirup int,
+  berry int,
+  mango int,
+  green int,
+  black int,
+  choco int
+);
+
+insert into stock(wondu,milk,sirup,berry,mango,green,black,choco)
+values(30,30,30,10,10,10,10,10);
+
+select * from stock;
