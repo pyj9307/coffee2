@@ -45,6 +45,7 @@ public class InventoryUI extends JFrame {
 		setLocation(900, 100);
 		getContentPane().setLayout(null);
 		
+		
 		JPanel panel = new JPanel();
 		panel.setBounds(0, 0, 534, 198);
 		getContentPane().add(panel);
