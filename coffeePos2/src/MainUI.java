@@ -20,7 +20,7 @@ import java.awt.Color;
 import javax.swing.ButtonGroup;
 
 //재고창을 만들면 완전히 다른걸 만들어야 한다. 그래서 그걸 어떻게 만들지 고민해봐야될듯
-//일단 메인에서 만들어 줘야 함 입력데이터는 여기서 전부 받아서 서버로 어넣어주는 ㅈ쪽으로 만들자
+//일단 메인에서 만들어 줘야 함 입력데이터는 여기서 전부 받아서 서버로 넣어넣어주는 쪽으로 만들자
 public class MainUI {
 	Vector<Coffee> list =new Vector<Coffee>();
 	Coffee coffee = null; 
