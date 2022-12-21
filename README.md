@@ -1,6 +1,6 @@
 실행 법
 
-OracleDB 테이블 생성법은 폴더 내 MEMO.tet 참고
+OracleDB 테이블 생성법은 폴더 내 memo.txt 참고
 
 이슈
 
@@ -8,7 +8,7 @@ OracleDB사용 시 window home edition은 지원을 안하는 중이라서 일�
 
 해결책
 
-쿼리문을 mysql로 바꾸거나 docker 데스크톱 다운하여 실행해야 함.
+쿼리문을 mysql(memo2.txt 참고)로 바꾸거나 docker 데스크톱 다운하여 실행해야 함.
 
 문제점
 
